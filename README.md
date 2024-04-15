@@ -6,7 +6,7 @@ This project is an assignment for a data structures course with the objective of
 
 ## C++ script
 
-We created a C++ script to execute all six algorithms using random vectors of varying sizes. The script measures the time taken by each algorithm to sort the random vector and writes the results to a .csv file.
+We created a [C++ script](https://github.com/delellisc/sorting_algorithms/blob/main/sorting_algorithms.cpp) to execute all six algorithms using random vectors of varying sizes. The script measures the time taken by each algorithm to sort the random vector and writes the results to a .csv file.
 
 To compile the script after cloning the repository, use:
 

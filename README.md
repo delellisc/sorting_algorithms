@@ -6,7 +6,7 @@ This project is an assignment for a data structures course with the objective of
 
 ## C++ script
 
-We created a [C++ script](https://github.com/delellisc/sorting_algorithms/blob/main/sorting_algorithms.cpp) to execute all six algorithms using random vectors of varying sizes. The script measures the time taken by each algorithm to sort the random vector and writes the results to a .csv file.
+We created a [C++ script](https://github.com/delellisc/sorting_algorithms/blob/main/sorting_algorithms.cpp) to execute all six algorithms using random vectors of varying sizes. The script measures the time taken by each algorithm to sort the random vector and writes the results to a [.csv file](https://github.com/delellisc/sorting_algorithms/blob/main/data.csv).
 
 To compile the script after cloning the repository, use:
 
@@ -18,7 +18,7 @@ And then you can run the compiled executable from the repository folder with:
 
 ## Data processing with notebook
 
-After executing the script and obtaining the .csv output file, we used Google Colab to create a [notebook](https://github.com/delellisc/sorting_algorithms/blob/main/notebook/sorting_algorithms.ipynb). This notebook was used to process the data, generate plots that were used in the [Medium article](https://medium.com/@delellis021/8f8df746bd9f) and aid us in our analysis.
+After executing the script and obtaining the [.csv output file](https://github.com/delellisc/sorting_algorithms/blob/main/data.csv), we used Google Colab to create a [notebook](https://github.com/delellisc/sorting_algorithms/blob/main/notebook/sorting_algorithms.ipynb). This notebook was used to process the data, generate plots that were used in the [Medium article](https://medium.com/@delellis021/8f8df746bd9f) and aid us in our analysis. If you clone this repository, you can upload/access our [notebook](https://github.com/delellisc/sorting_algorithms/blob/main/notebook/sorting_algorithms.ipynb) in your favorite environment and process our data ([.csv file](https://github.com/delellisc/sorting_algorithms/blob/main/data.csv)) or your own data after running the script.
 
 All of our thought processes are described in our article and our notebook, so we didn't feel the need to describe them again here.
 

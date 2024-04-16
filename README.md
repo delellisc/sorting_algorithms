@@ -18,7 +18,7 @@ And then you can run the compiled executable from the repository folder with:
 
 ## Data processing with notebook
 
-After executing the script and obtaining the .csv output file, we used Google Colab to create a [notebook](https://github.com/delellisc/sorting_algorithms/blob/main/notebook/sorting_algorithms.ipynb). This notebook was used to process the data, generate plots that were used in the Medium article and aid us in our analysis. If you clone this repository, you can upload/access our notebookin your favorite environment and process our data (.csv file) or your own data after running the script.
+After executing the script and obtaining the .csv output file, we used Google Colab to create a [notebook](https://github.com/delellisc/sorting_algorithms/blob/main/notebook/sorting_algorithms.ipynb). This notebook was used to process the data, generate plots that were used in the Medium article and aid us in our analysis. If you clone this repository, you can upload/access our notebook in your favorite environment and process our data (.csv file) or your own data after running the script.
 
 All of our thought processes are described in our article and our notebook, so we didn't feel the need to describe them again here.
 

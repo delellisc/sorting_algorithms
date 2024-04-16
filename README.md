@@ -27,7 +27,9 @@ All of our thought processes are described in our article and our notebook, so w
 ## About the Authors
 
 [**Camilo de Lellis**](https://github.com/delellisc)
+
 Co-creator of the project.
 
 [**David Wandison**](https://github.com/debiddos)
+
 Co-creator of the project.

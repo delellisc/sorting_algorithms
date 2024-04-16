@@ -24,8 +24,6 @@ All of our thought processes are described in our article and our notebook, so w
 
 ## Authors
 
-## About the Authors
-
 [**Camilo de Lellis**](https://github.com/delellisc)
 
 Co-creator of the project.
